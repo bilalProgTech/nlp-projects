@@ -1,0 +1,1 @@
+Data Reference: https://www.kaggle.com/ymaricar/cmu-book-summary-dataset
